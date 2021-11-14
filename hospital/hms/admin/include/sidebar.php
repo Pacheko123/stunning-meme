@@ -20,6 +20,8 @@
 									</div>
 								</a>
 							</li>
+
+
 							<li>
 								<a href="javascript:void(0)">
 									<div class="item-content">
@@ -50,6 +52,63 @@
 									
 								</ul>
 								</li>
+
+								<li>
+								<a href="javascript:void(0)">
+									<div class="item-content">
+										<div class="item-media">
+											<i class="ti-user"></i>
+										</div>
+										<div class="item-inner">
+											<span class="title"> Lab Technician </span><i class="icon-arrow"></i>
+										</div>
+									</div>
+								</a>
+								<ul class="sub-menu">
+									
+									<li>
+										<a href="add-labtechnician.php">
+											<span class="title"> Add Lab Tech</span>
+										</a>
+									</li>
+									<li>
+										<a href="Manage-doctors.php">
+											<span class="title"> Manage Lab Tech </span>
+										</a>
+									</li>
+									
+								</ul>
+								</li>
+
+								<li>
+								<a href="javascript:void(0)">
+									<div class="item-content">
+										<div class="item-media">
+											<i class="ti-user"></i>
+										</div>
+										<div class="item-inner">
+											<span class="title"> Pharmacist </span><i class="icon-arrow"></i>
+										</div>
+									</div>
+								</a>
+								<ul class="sub-menu">
+									
+									<li>
+										<a href="add-pharmacist.php">
+											<span class="title"> Add Pharmacist</span>
+										</a>
+									</li>
+									<li>
+										<a href="Manage-doctors.php">
+											<span class="title"> Manage Pharmacist </span>
+										</a>
+									</li>
+									
+								</ul>
+								</li>
+
+								
+
 
 				<li>
 								<a href="javascript:void(0)">
@@ -90,29 +149,10 @@
 											<span class="title"> Manage Patients </span>
 										</a>
 									</li>
-									<li>
-										<a href="add-patient.php">
-											<span class="title"> Add Patients</span>
-										</a>
-									</li>
+									
 									
 								</ul>
 								</li>	
-
-<!--li>
-								<a href="appointment-history.php">
-									<div class="item-content">
-										<div class="item-media">
-											<i class="ti-file"></i>
-										</div>
-										<div class="item-inner">
-											<span class="title"> Appointment History </span>
-										</div>
-									</div>
-								</a>
-							</li>-->
-
-
 
 				<li>
 								<a href="javascript:void(0)">
